@@ -204,6 +204,8 @@ const en = {
   outbound: 'Outbound',
   proxyGroup: 'Proxy group',
   sortBy: 'Sort by',
+  groupBy: 'Group by',
+  noGrouping: 'No grouping',
   rule: 'Rule',
   sourceIP: 'Source IP',
   activeConnections: 'Active',
