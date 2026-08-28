@@ -214,6 +214,8 @@ const ru: LANG_MESSAGE = {
   sortOldestFirst: 'Сначала старые',
   groupBy: 'Группировать по',
   noGrouping: 'Без группировки',
+  expandAllGroups: 'Развернуть все группы',
+  collapseAllGroups: 'Свернуть все группы',
   rule: 'Правило',
   sourceIP: 'Исходный IP',
   activeConnections: 'Активные',
